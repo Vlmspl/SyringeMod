@@ -1,0 +1,17 @@
+{
+  "type": "syringemod:potion_mixing",
+  "ingredients": [
+    {
+      "potion": "minecraft:regeneration"
+    },
+    {
+      "potion": "minecraft:fire_resistance"
+    }
+  ],
+  "result": {
+    "item": "minecraft:potion",
+    "nbt": {
+      "Potion": "syringemod:fortified_remedy_potion"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "item.syringemod.empty_syringe": "Пустой шприц",
+  "item.syringemod.water_syringe": "Шприц с водой",
+  "item.syringemod.lava_syringe": "Шприц с лавой",
+  "item.syringemod.venom_syringe": "Шприц с ядом",
+  "item.syringemod.fortified_remedy_syringe": "Шприц укрепленного здоровья",
+  "item.syringemod.nocturnal_sprint_syringe": "Шприц ночного бега",
+  "item.syringemod.deep_dive_syringe": "Шприц глубокого погружения",
+  "item.syringemod.agile_syringe": "Шприц Ловкости",
+  "item.syringemod.milk_syringe": "Шприц с молоком",
+  "item.syringemod.alchemic_infusion_blend": "Алхимическая инфузийная смесь",
+  "item.syringemod.whisk": "Венчик",
+  "block.syringemod.potion_mixer": "Смешиватель зелий",
+
+  "item.minecraft.potion.effect.agile_potion": "Зелье ловкости",
+  "item.minecraft.splash_potion.effect.agile_potion": "Разрывное зелье ловкости",
+  "item.minecraft.lingering_potion.effect.agile_potion": "Длительное зелье ловкости",
+
+  "item.minecraft.potion.effect.fortified_remedy_potion": "Зелье укрепленного средства",
+  "item.minecraft.splash_potion.effect.fortified_remedy_potion": "Разрывное зелье укрепленного средства",
+  "item.minecraft.lingering_potion.effect.fortified_remedy_potion": "Длительное зелье укрепленного средства",
+
+  "item.minecraft.potion.effect.nocturnal_sprint_potion": "Зелье ночного спринта",
+  "item.minecraft.splash_potion.effect.nocturnal_sprint_potion": "Разрывное зелье ночного спринта",
+  "item.minecraft.lingering_potion.effect.nocturnal_sprint_potion": "Длительное зелье ночного спринта",
+
+  "item.minecraft.potion.effect.deep_dive_potion": "Зелье для глубокого погружения",
+  "item.minecraft.splash_potion.effect.deep_dive_potion": "Разрывное зелье для глубокого погружения",
+  "item.minecraft.lingering_potion.effect.deep_dive_potion": "Длительное зелье для глубокого погружения",
+
+  "item.minecraft.potion.effect.venom_potion": "Зелье яда",
+  "item.minecraft.splash_potion.effect.venom_potion": "Разрывное зелье яда",
+  "item.minecraft.lingering_potion.effect.venom_potion": "Длительное зелье яда",
+
+  "menu.potion_mixer.name": "Смешивание зелий",
+  "jei.potion_mixer.recipe_title": "Смешивание зелий",
+
+  "itemGroup.syringe_mod_tab": "Предметы \"Vital Syringes\""
+}

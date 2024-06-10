@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "syringemod:block/potion_mixer",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "syringemod:block/potion_mixer",
+      "y": 0
+    },
+    "facing=west": {
+      "model": "syringemod:block/potion_mixer",
+      "y": 90
+    },
+    "facing=east": {
+      "model": "syringemod:block/potion_mixer",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "syringemod:potion_mixing",
+  "ingredients": [
+    {
+      "potion": "minecraft:poison"
+    },
+    {
+      "potion": "minecraft:weakness"
+    }
+  ],
+  "result": {
+    "item": "minecraft:potion",
+    "nbt": {
+      "Potion": "syringemod:venom_potion"
+    }
+  }
+}

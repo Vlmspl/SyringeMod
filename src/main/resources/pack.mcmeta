@@ -1,0 +1,8 @@
+{
+    "pack": {
+        "description": "<img src='https://media.forgecdn.net/attachments/description/1030048/description_7979e6df-0df9-4ed2-b8ac-32fa2188b605.png' alt='Vital syringes'>\n${mod_id} resources",
+        "pack_format": 9,
+        "forge:resource_pack_format": 9,
+        "forge:data_pack_format": 10
+    }
+}

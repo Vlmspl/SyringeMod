@@ -1,0 +1,39 @@
+{
+  "item.syringemod.empty_syringe": "Seringue Vide",
+  "item.syringemod.water_syringe": "Seringue d'Eau",
+  "item.syringemod.lava_syringe": "Seringue de Lave",
+  "item.syringemod.venom_syringe": "Seringue de Venin",
+  "item.syringemod.fortified_remedy_syringe": "Seringue de Remède Fortifié",
+  "item.syringemod.nocturnal_sprint_syringe": "Seringue de Sprint Nocturne",
+  "item.syringemod.deep_dive_syringe": "Seringue de Plongée Profonde",
+  "item.syringemod.agile_syringe": "Seringue d'Agilité",
+  "item.syringemod.milk_syringe": "Seringue de Lait",
+  "item.syringemod.alchemic_infusion_blend": "Mélange d'Infusion Alchimique",
+  "item.syringemod.whisk": "Fouet",
+  "block.syringemod.potion_mixer": "Mélangeur de Potions",
+
+  "item.minecraft.potion.effect.agile_potion": "Potion d'Agilité",
+  "item.minecraft.splash_potion.effect.agile_potion": "Potion de Projection d'Agilité",
+  "item.minecraft.lingering_potion.effect.agile_potion": "Potion Persistante d'Agilité",
+
+  "item.minecraft.potion.effect.fortified_remedy_potion": "Potion de Remède Fortifié",
+  "item.minecraft.splash_potion.effect.fortified_remedy_potion": "Potion de Projection de Remède Fortifié",
+  "item.minecraft.lingering_potion.effect.fortified_remedy_potion": "Potion Persistante de Remède Fortifié",
+
+  "item.minecraft.potion.effect.nocturnal_sprint_potion": "Potion de Sprint Nocturne",
+  "item.minecraft.splash_potion.effect.nocturnal_sprint_potion": "Potion de Projection de Sprint Nocturne",
+  "item.minecraft.lingering_potion.effect.nocturnal_sprint_potion": "Potion Persistante de Sprint Nocturne",
+
+  "item.minecraft.potion.effect.deep_dive_potion": "Potion de Plongée Profonde",
+  "item.minecraft.splash_potion.effect.deep_dive_potion": "Potion de Projection de Plongée Profonde",
+  "item.minecraft.lingering_potion.effect.deep_dive_potion": "Potion Persistante de Plongée Profonde",
+
+  "item.minecraft.potion.effect.venom_potion": "Potion de Venin",
+  "item.minecraft.splash_potion.effect.venom_potion": "Potion de Projection de Venin",
+  "item.minecraft.lingering_potion.effect.venom_potion": "Potion Persistante de Venin",
+
+  "menu.potion_mixer.name": "Mélange de Potions",
+  "jei.potion_mixer.recipe_title": "Mélange de Potions",
+
+  "itemGroup.syringe_mod_tab": "Objets \"Vital Syringes\""
+}

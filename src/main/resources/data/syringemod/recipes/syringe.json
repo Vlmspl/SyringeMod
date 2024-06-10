@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " AC",
+    "A A",
+    "BA "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:glass"
+    },
+    "B": {
+      "item": "minecraft:iron_nugget"
+    },
+    "C": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "syringemod:empty_syringe"
+  }
+}

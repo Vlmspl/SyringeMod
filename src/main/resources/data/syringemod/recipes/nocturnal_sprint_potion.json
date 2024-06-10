@@ -1,0 +1,17 @@
+{
+  "type": "syringemod:potion_mixing",
+  "ingredients": [
+    {
+      "potion": "minecraft:swiftness"
+    },
+    {
+      "potion": "minecraft:night_vision"
+    }
+  ],
+  "result": {
+    "item": "minecraft:potion",
+    "nbt": {
+      "Potion": "syringemod:nocturnal_sprint_potion"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "syringemod:potion_mixing",
+  "ingredients": [
+    {
+      "potion": "minecraft:night_vision"
+    },
+    {
+      "potion": "minecraft:water_breathing"
+    }
+  ],
+  "result": {
+    "item": "minecraft:potion",
+    "nbt": {
+      "Potion": "syringemod:deep_dive_potion"
+    }
+  }
+}

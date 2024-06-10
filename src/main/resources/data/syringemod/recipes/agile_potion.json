@@ -1,0 +1,17 @@
+{
+  "type": "syringemod:potion_mixing",
+  "ingredients": [
+    {
+      "potion": "minecraft:strength"
+    },
+    {
+      "potion": "minecraft:swiftness"
+    }
+  ],
+  "result": {
+    "item": "minecraft:potion",
+    "nbt": {
+      "Potion": "syringemod:agile_potion"
+    }
+  }
+}

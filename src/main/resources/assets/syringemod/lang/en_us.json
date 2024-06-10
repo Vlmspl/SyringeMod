@@ -1,0 +1,39 @@
+{
+  "item.syringemod.empty_syringe": "Empty Syringe",
+  "item.syringemod.water_syringe": "Water Syringe",
+  "item.syringemod.lava_syringe": "Lava Syringe",
+  "item.syringemod.venom_syringe": "Venom Syringe",
+  "item.syringemod.fortified_remedy_syringe": "Fortified remedy Syringe",
+  "item.syringemod.nocturnal_sprint_syringe": "Nocturnal sprint Syringe",
+  "item.syringemod.deep_dive_syringe": "Deep dive Syringe",
+  "item.syringemod.agile_syringe": "Agility Syringe",
+  "item.syringemod.milk_syringe": "Milk Syringe",
+  "item.syringemod.alchemic_infusion_blend": "Alchemic Infusion Blend",
+  "item.syringemod.whisk": "Whisk",
+  "block.syringemod.potion_mixer": "Potion Mixer",
+
+  "item.minecraft.potion.effect.agile_potion": "Potion of Agility",
+  "item.minecraft.splash_potion.effect.agile_potion": "Splash Potion of Agility",
+  "item.minecraft.lingering_potion.effect.agile_potion": "Lingering Potion of Agility",
+
+  "item.minecraft.potion.effect.fortified_remedy_potion": "Potion of Fortified Remedy",
+  "item.minecraft.splash_potion.effect.fortified_remedy_potion": "Splash Potion of Fortified Remedy",
+  "item.minecraft.lingering_potion.effect.fortified_remedy_potion": "Lingering Potion of Fortified Remedy",
+
+  "item.minecraft.potion.effect.nocturnal_sprint_potion": "Potion of Nocturnal Sprint",
+  "item.minecraft.splash_potion.effect.nocturnal_sprint_potion": "Splash Potion of Nocturnal Sprint",
+  "item.minecraft.lingering_potion.effect.nocturnal_sprint_potion": "Lingering Potion of Nocturnal Sprint",
+
+  "item.minecraft.potion.effect.deep_dive_potion": "Potion of Deep Dive",
+  "item.minecraft.splash_potion.effect.deep_dive_potion": "Splash Potion of Deep Dive",
+  "item.minecraft.lingering_potion.effect.deep_dive_potion": "Lingering Potion of Deep Dive",
+
+  "item.minecraft.potion.effect.venom_potion": "Potion of Venom",
+  "item.minecraft.splash_potion.effect.venom_potion": "Splash Potion of Venom",
+  "item.minecraft.lingering_potion.effect.venom_potion": "Lingering Potion of Venom",
+
+  "menu.potion_mixer.name": "Potion Mixing",
+  "jei.potion_mixer.recipe_title": "Potion Mixing",
+
+  "itemGroup.syringe_mod_tab": "Vital syringes items"
+}

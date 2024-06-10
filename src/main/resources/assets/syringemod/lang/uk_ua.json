@@ -1,0 +1,39 @@
+{
+  "item.syringemod.empty_syringe": "Порожній шприц",
+  "item.syringemod.water_syringe": "Шприц з водою",
+  "item.syringemod.lava_syringe": "Шприц з лавою",
+  "item.syringemod.venom_syringe": "Шприц з отрутою",
+  "item.syringemod.fortified_remedy_syringe": "Шприц укріпленого здоров'я",
+  "item.syringemod.nocturnal_sprint_syringe": "Шприц нічного бігу",
+  "item.syringemod.deep_dive_syringe": "Шприц глибокого занурення",
+  "item.syringemod.agile_syringe": "Шприц спритності",
+  "item.syringemod.milk_syringe": "Шприц з молоком",
+  "item.syringemod.alchemic_infusion_blend": "Алхімічна інфузійна суміш",
+  "item.syringemod.whisk": "Вінчик",
+  "block.syringemod.potion_mixer": "Змішувач зіль",
+
+  "item.minecraft.potion.effect.agile_potion": "Зілля спритності",
+  "item.minecraft.splash_potion.effect.agile_potion": "Розривне зілля спритності",
+  "item.minecraft.lingering_potion.effect.agile_potion": "Тривале зілля спритності",
+
+  "item.minecraft.potion.effect.fortified_remedy_potion": "Зілля укріпленого здоров'я",
+  "item.minecraft.splash_potion.effect.fortified_remedy_potion": "Розривне зілля укріпленого здоров'я",
+  "item.minecraft.lingering_potion.effect.fortified_remedy_potion": "Тривале зілля укріпленого здоров'я",
+
+  "item.minecraft.potion.effect.nocturnal_sprint_potion": "Зілля нічного спринту",
+  "item.minecraft.splash_potion.effect.nocturnal_sprint_potion": "Розривне зілля нічного спринту",
+  "item.minecraft.lingering_potion.effect.nocturnal_sprint_potion": "Тривале зілля нічного спринту",
+
+  "item.minecraft.potion.effect.deep_dive_potion": "Зілля для глибокого занурення",
+  "item.minecraft.splash_potion.effect.deep_dive_potion": "Розривне зілля для глибокого занурення",
+  "item.minecraft.lingering_potion.effect.deep_dive_potion": "Тривале зілля для глибокого занурення",
+
+  "item.minecraft.potion.effect.venom_potion": "Зілля отрути",
+  "item.minecraft.splash_potion.effect.venom_potion": "Розривне зілля отрути",
+  "item.minecraft.lingering_potion.effect.venom_potion": "Тривале зілля отрути",
+
+  "menu.potion_mixer.name": "Змішування зіль",
+  "jei.potion_mixer.recipe_title": "Змішування зіль",
+
+  "itemGroup.syringe_mod_tab": "Речі \"Vital Syringes\""
+}

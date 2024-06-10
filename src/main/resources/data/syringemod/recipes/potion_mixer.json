@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " AA",
+    " BA",
+    "CDC"
+  ],
+  "key": {
+    "A": {
+      "tag": "minecraft:logs"
+    },
+    "B": {
+      "item": "syringemod:whisk"
+    },
+    "C": {
+      "item": "minecraft:iron_ingot"
+    },
+    "D": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "syringemod:potion_mixer"
+  }
+}
